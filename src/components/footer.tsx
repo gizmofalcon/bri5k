@@ -36,7 +36,7 @@ export function Footer() {
       <div className="mx-auto mt-20 max-w-5xl border-t border-t-[var(--tertiary)] pt-6">
         <div className="flex flex-col items-center justify-between gap-4 sm:flex-row">
           <p className="font-mono text-xs text-[var(--tertiary)]">
-            Bri5k -- Begin Running, Intervals to 5K
+            Bri5k | Begin Running, Intervals to 5K
           </p>
           <div className="flex gap-6">
             <a
