@@ -1,13 +1,15 @@
+import Link from "next/link";
+
 export default function PrivacyPage() {
   return (
     <main className="min-h-screen bg-[var(--background)] px-6 py-24 md:px-12">
       <div className="mx-auto max-w-2xl">
-        <a
+        <Link
           href="/"
           className="mb-12 inline-block font-mono text-xs uppercase tracking-[2px] text-[var(--tertiary)] transition-opacity hover:opacity-70"
         >
           &larr; Back
-        </a>
+        </Link>
 
         <h1 className="font-mono text-3xl font-black uppercase tracking-[2px] text-[var(--primary)]">
           Privacy Policy
