@@ -46,6 +46,12 @@ export function Footer() {
               Privacy
             </a>
             <a
+              href="/support"
+              className="font-mono text-xs text-[var(--tertiary)] transition-opacity duration-200 ease-out hover:opacity-70"
+            >
+              Support
+            </a>
+            <a
               href="https://reddit.com/r/C25K"
               target="_blank"
               rel="noopener noreferrer"

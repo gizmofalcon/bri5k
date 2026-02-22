@@ -76,6 +76,18 @@ export default function PrivacyPage() {
 
           <section>
             <h2 className="mb-3 text-xs font-bold uppercase tracking-[2px] text-[var(--primary)]">
+              Background Audio
+            </h2>
+            <p>
+              Bri5k uses background audio to deliver voice cues during workouts,
+              such as interval start and stop prompts. Audio playback occurs
+              on-device and does not involve any network requests or data
+              transmission.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="mb-3 text-xs font-bold uppercase tracking-[2px] text-[var(--primary)]">
               Analytics &amp; Tracking
             </h2>
             <p>
