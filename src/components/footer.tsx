@@ -22,7 +22,7 @@ export function Footer() {
         <div className="mt-8 flex justify-center gap-4">
           <BrutalistButton
             size="lg"
-            href="https://apps.apple.com"
+            href="https://apps.apple.com/us/app/bri5k/id6759337828"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Download Bri5k on the App Store"
